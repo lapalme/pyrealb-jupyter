@@ -6,5 +6,7 @@
         "markdown",
         "latex",
         "plaintext"
-    ]
+    ],
+    "notebook.showCellStatusBar": "hidden"
+
 }
