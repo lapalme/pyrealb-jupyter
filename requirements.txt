@@ -1,1 +1,1 @@
-pyrealb==2.3
+pyrealb==3.0
